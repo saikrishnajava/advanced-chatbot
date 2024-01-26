@@ -1,4 +1,4 @@
-package com.chatbot.ai.advancedchatbot.constant;
+package com.chatbot.ai.advancedchatbot.constants;
 
 public class ChatbotConstants {
 	public static final String POSITIVE = "positive";

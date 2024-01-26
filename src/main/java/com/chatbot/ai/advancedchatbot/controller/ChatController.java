@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.chatbot.ai.advancedchatbot.constant.ChatbotConstants;
+import com.chatbot.ai.advancedchatbot.constants.ChatbotConstants;
 import com.chatbot.ai.advancedchatbot.nlp.NLPService;
 
 import org.apache.logging.log4j.Logger;
