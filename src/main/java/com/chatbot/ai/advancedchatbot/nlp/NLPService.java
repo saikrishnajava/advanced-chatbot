@@ -1,4 +1,4 @@
-package com.chatbot.ai.advancedchatbot;
+package com.chatbot.ai.advancedchatbot.nlp;
 
 import edu.stanford.nlp.simple.Document;
 import edu.stanford.nlp.simple.Sentence;
